@@ -64,7 +64,7 @@ pip install -r requirements.txt
 ##  Usage
 
 ```bash
-python inf2021149_Project_3.py
+python Web_scraping.py
 ```
 
 1. The GUI window will open
