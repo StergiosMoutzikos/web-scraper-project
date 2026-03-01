@@ -75,20 +75,6 @@ python Web_scraping.py
 
 ---
 
-##  Project Structure
-
-```
-web-scraper-project3/
-│
-├── inf2021149_Project_3.py   # Main application
-├── requirements.txt           # Python dependencies
-├── website_data.csv           # Output file (auto-generated on run)
-├── Project_3_report.pdf       # Full project report (Greek)
-└── README.md                  # You are here
-```
-
----
-
 ##  requirements.txt
 
 ```
