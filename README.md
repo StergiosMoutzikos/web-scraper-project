@@ -43,8 +43,8 @@ A Python desktop application that scrapes websites, extracts key statistics, sav
 
 ### 1. Clone the repository
 ```bash
-git clone https://github.com/YOUR_USERNAME/web-scraper-project3.git
-cd web-scraper-project3
+git clone https://github.com/YOUR_USERNAME/web-scraper-project.git
+cd web-scraper-project
 ```
 
 ### 2. (Optional) Create a virtual environment
