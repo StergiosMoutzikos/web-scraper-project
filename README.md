@@ -99,7 +99,7 @@ textstat
 
 ##  Report
 
-The full project documentation (in Greek) is included as [`Project_3_report.pdf`](./Project_3_report.pdf), covering:
+The full project documentation (in Greek) is included as [`Web_scraping_report.pdf`](./Web_scraping_report.pdf), covering:
 - Library explanations
 - Function-by-function code walkthrough
 - GUI screenshots and sample output chart
